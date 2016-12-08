@@ -1,0 +1,38 @@
+---
+title: Python Developer with selenium Experience
+company: 
+url: 
+location: remote
+contract: contract
+contact:
+    name: Cody M
+    email: codemantx23@gmail.com
+    phone: 
+created: !!timestamp '2016-12-08' 
+tags:
+  - selenium
+  - python
+  - sql
+---
+
+# Overview
+Summary Python Program: (1) Find Businesses in Dallas, TX (2) Find nearest competitor (3) Auto-post information to Wordpress post
+Python Program: (1) Find Businesses in Dallas, TX (2) Find nearest competitor (3) Auto-post
+(1) Use Facebook / Manta / Yelp / other business listing service to find businesses in Dallas, TX.
+(2) Use Google or similar service to find nearest competitor (i.e. Juan's Mexican vs. Jose's Tacos)
+(3) Auto-Post Facebook URL and Twitter URL to Wordpress website
+
+
+Candidates for this role should be fully proficient in Python and SQL.
+
+Please send a CV to the address above.
+
+# Role requirements
+
+* Python
+* Selenium
+* etc
+
+
+
+
